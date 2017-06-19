@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     
     let apiKey = "a07e22bc18f5cb106bfe4cc1f83ad8ed"
-    let baseUrl = "https://image.tmdb.org/t/p/w185"
+    let baseUrl = "https://image.tmdb.org/t/p/w500"
     var url: URL?
     var movies = [NSDictionary]()
     let refreshControl = UIRefreshControl()
